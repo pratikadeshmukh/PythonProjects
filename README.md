@@ -22,5 +22,4 @@ Sentiment Analysis -
         Based on the findings generated through sentiment analysis in business, we can always adjust to the present market situation and satisfy our customers in a better way.
         Overall, we can make immediate decisions with automated insights.If we develop a big idea, we can test it before bringing life to it.
         
-Time series Forecasting -
-        Forecasting can be very beneficial for the planning process at companies.
+
