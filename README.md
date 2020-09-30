@@ -8,8 +8,8 @@ Customer Lifetime value -
          forecast transactions of each individual customer.
       3) CLV = Expected no. of transactions x Revenue per transaction x Margin
         Expected no. of transactions – is calculated using BG/NBD model,this model also predicts the probability that the customer is active or not
-        Revenue per transaction – calculated using gamma gamma model
-        Margin was provided by the accounting team
+        Revenue per transaction – calculated using gamma gamma model.
+        Margin can be obtained from the accounting team or we can consider it as 5%.
 
 
 Customer Segmentation - 
